@@ -1,0 +1,8 @@
+﻿  PizzariaApp.cpp
+C:\Users\Fabio\source\repos\PizzariaApp\PizzariaApp\PizzariaApp.cpp(419,10): warning C4476: 'scanf': tipo desconhecido de caractere de campo '.' no especificador de formato
+C:\Users\Fabio\source\repos\PizzariaApp\PizzariaApp\PizzariaApp.cpp(419,18): warning C4474: 'scanf': excesso de argumentos transmitidos para cadeia de caracteres de formato
+C:\Users\Fabio\source\repos\PizzariaApp\PizzariaApp\PizzariaApp.cpp(419,18): message : espaços reservados e seus parâmetros esperam 0 argumentos variadic, mas 1 foram fornecidos
+C:\Users\Fabio\source\repos\PizzariaApp\PizzariaApp\PizzariaApp.cpp(892,11): warning C4129: 'P': sequência de escape de caractere não reconhecida
+C:\Users\Fabio\source\repos\PizzariaApp\PizzariaApp\PizzariaApp.cpp(1119,6): warning C4101: 'op': variável local não referenciada
+C:\Users\Fabio\source\repos\PizzariaApp\PizzariaApp\PizzariaApp.cpp(1230,14): warning C4098: 'acompanhamentoGeral': função 'void' retornando um valor
+  PizzariaApp.vcxproj -> C:\Users\Fabio\source\repos\PizzariaApp\Debug\PizzariaApp.exe
